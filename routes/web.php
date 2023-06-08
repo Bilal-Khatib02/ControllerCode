@@ -71,3 +71,4 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::resource('posts', TestSite::class);
+Route::resource('posts', TestSite::class);
