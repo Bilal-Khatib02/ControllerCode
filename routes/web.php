@@ -74,5 +74,5 @@ Route::resource('posts', TestSite::class);
 
 Route::get('/home',function()
 {
-   return 'Helo';
+   return 'Hello';
 });
